@@ -3,13 +3,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Wavelet-PM2.5-Prediction-System)
 ![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Wavelet-PM2.5-Prediction-System)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Wavelet-PM2.5-Prediction-System)
+# A wavelet PM2.5 prediction system using optimized kernel extreme learning with Boruta-XGBoost feature selection
 
 <div align="center">
   <img src="Flowchart of the proposed system.png">
 </div>
 
-# Wavelet-PM2.5-Prediction-System
-A wavelet PM2.5 prediction system using optimized kernel extreme learning with Boruta-XGBoost feature selection
 
 
 Abstract
