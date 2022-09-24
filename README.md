@@ -18,11 +18,11 @@ Fine Particulate Matter (PM2.5) concentration has been a vital source of info an
 Features and results
 
 <div align="center">
-  <img src="Structure of the decomposed input data.png">
+  <img src="decomposing signal process using Wavelet transform.png">
 </div>
 
 <div align="center">
-  <img src="decomposing signal process using Wavelet transform.png">
+  <img src="Structure of the decomposed input data.png">
 </div>
  
  <div align="center">
