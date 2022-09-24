@@ -20,6 +20,10 @@ Features and results
 <div align="center">
   <img src="Structure of the decomposed input data.png">
 </div>
+
+<div align="center">
+  <img src="decomposing signal process using Wavelet transform.png">
+</div>
  
  <div align="center">
   <img src=" Feature selection outputs.png">
