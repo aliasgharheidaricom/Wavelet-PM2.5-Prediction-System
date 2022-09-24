@@ -29,6 +29,13 @@ Features and results
   <img src=" Feature selection outputs.png">
 </div>
 
+<div align="center">
+  <img src="Decomposition of PM10, SO2, NO2, and CO hourly data.png">
+</div>
+
+<div align="center">
+  <img src="Decomposition of O3, TEMP, PRES, and DEWP hourly data.png">
+</div>
  
 <div align="center">
   <img src="Scatter plots of different optimized KELM models.png">
