@@ -21,6 +21,11 @@ Features and results
   <img src="Structure of the decomposed input data.png">
 </div>
  
+ <div align="center">
+  <img src=" Feature selection outputs.png">
+</div>
+
+ 
 <div align="center">
   <img src="Scatter plots of different optimized KELM models.png">
 </div>
