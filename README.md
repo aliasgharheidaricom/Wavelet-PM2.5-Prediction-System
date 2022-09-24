@@ -20,3 +20,7 @@ Fine Particulate Matter (PM2.5) concentration has been a vital source of info an
 <div align="center">
   <img src="Scatter plots of different optimized KELM models.png">
 </div>
+
+<div align="center">
+  <img src="Scatter plots of different machine learning models.png">
+</div>
