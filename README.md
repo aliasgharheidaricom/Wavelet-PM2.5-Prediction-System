@@ -36,6 +36,11 @@ Features and results
 <div align="center">
   <img src="Decomposition of O3, TEMP, PRES, and DEWP hourly data.png">
 </div>
+
+ <div align="center">
+  <img src="Decomposition of WSPM.png">
+</div>
+ 
  
 <div align="center">
   <img src="Scatter plots of different optimized KELM models.png">
