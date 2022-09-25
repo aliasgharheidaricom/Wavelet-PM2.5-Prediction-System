@@ -18,6 +18,14 @@ Fine Particulate Matter (PM2.5) concentration has been a vital source of info an
 Features and results
 
 <div align="center">
+  <img src="Diagram of simplex scheme.png">
+</div>
+
+<div align="center">
+  <img src="A salp chain and its opposite salp chain.png">
+</div>
+
+<div align="center">
   <img src="decomposing signal process using Wavelet transform.png">
 </div>
 
