@@ -55,6 +55,23 @@ Features and results
 </div>
 
 <div align="center">
+  <img src="RIDGE TEST.png">
+</div>
+
+<div align="center">
+  <img src="XGBOOST TEST.png">
+</div>
+
+<div align="center">
+  <img src="extratreesTEST.png">
+</div>
+
+<div align="center">
+  <img src="lightGBM TEST.png">
+</div>
+
+
+<div align="center">
   <img src="OSMSSAKELM TEST.png">
 </div>
 
