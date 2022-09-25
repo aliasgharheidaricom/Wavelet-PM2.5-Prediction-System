@@ -49,3 +49,13 @@ Features and results
 <div align="center">
   <img src="Scatter plots of different machine learning models.png">
 </div>
+
+<div align="center">
+  <img src="CATBOOST TEST.png">
+</div>
+
+<div align="center">
+  <img src="OSMSSAKELM TEST.png">
+</div>
+
+
