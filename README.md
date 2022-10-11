@@ -78,9 +78,11 @@ Features and results
   <img src="lightGBM TEST.png">
 </div>
 
-
 <div align="center">
   <img src="OSMSSAKELM TEST.png">
 </div>
 
+<div align="center">
+  <img src="Comparison of the observed trend with the predicted time series (test results) of all models..png">
+</div>
 
